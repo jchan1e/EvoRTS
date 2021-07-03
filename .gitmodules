@@ -1,3 +1,5 @@
 [submodule "NN"]
 	path = NN
 	url = git@github.com:jchan1e/neuralnets.git
+[submodule "neuralnet"]
+	branch = ReLu
